@@ -1,1 +1,13 @@
-# Define the variable board below.
+# Define the variable board b
+
+my_array = ["board"]
+
+board = [" " , " " , " " , " " , " " , " " , " " , " " , " "]
+
+
+
+
+
+
+
+
